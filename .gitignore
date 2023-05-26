@@ -1,0 +1,11 @@
+.idea/
+vendor/
+composer.phar
+arquivo.txt
+arquivo2.txt
+react-io-nb.php
+io-nb.php
+phpinfo.php
+socket-server.php
+teste.php
+http-server.php
